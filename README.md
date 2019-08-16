@@ -1,6 +1,6 @@
 # Conways Game of Life
 
-A simple implemention of the classic cellular automaton.
+A simple implementation of the classic cellular automaton.
 
 To run:
 
